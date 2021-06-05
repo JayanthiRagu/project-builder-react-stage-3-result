@@ -1,0 +1,82 @@
+[
+    {
+           "question": "Microsoft has opened its new IDC facility in which city?",
+           "optionA": "Faridabad",
+           "optionB": "Mumbai",
+           "optionC": "Surat",
+           "optionD": "Noida",
+           "answer": "Noida"
+    },
+    {
+        "question": "Tech major Microsoft has launched its new India Development Center (IDC) facility in which state?",
+        "optionA": "Gujarat",
+        "optionB": "Uttar Pradesh",
+        "optionC": "Kerala",
+        "optionD": "Karnataka",
+        "answer": "Uttar Pradesh"
+    },
+    {
+        "question": "Who has launched its new Taj Mahal inspired Engineering Hub in NCR?",
+        "optionA": "Snapdeal",
+        "optionB": "Microsoft",
+        "optionC": "Amazon",
+        "optionD": "Flipkart",
+        "answer": "Microsoft"
+    },
+    {
+        "question": "Which telecom company has become the first one in India to demonstrate the operation of the 5G network?",
+        "optionA": "Reliance Jio",
+        "optionB": "Airtel",
+        "optionC": "Vi",
+        "optionD": "BSNL",
+        "answer": "Airtel"
+    },
+    {
+        "question": "Which Institution has signed MoU with MoRTH for strengthening R&D activities?",
+        "optionA": "IIT Roorkee",
+        "optionB": "IIT Delhi",
+        "optionC": "IIT Madras",
+        "optionD": "IIT Kharagpur",
+        "answer": "IIT Roorkee"
+    },
+    {
+        "question": "The NSDC has partnered with which university to provide the Digital Skills Training in India?",
+        "optionA": "Massachusetts Institute of Technology",
+        "optionB": "Harvard University",
+        "optionC": "Stanford University",
+        "optionD": "California State University",
+        "answer": "California State University"
+    },
+    {
+        "question": "Which company has completed the acquisition of smart wearable company Fitbit?",
+        "optionA": "Hike",
+        "optionB": "Flipkart",
+        "optionC": "Facebook",
+        "optionD": "Google",
+        "answer": "Google"
+    },
+    {
+        "question": "Which company became the first independent power producer to fully commission the first three wind auctions held by the Solar Energy Corporation of India (SECI)?",
+        "optionA": "My Home Power private Limited",
+        "optionB": "Shyam Indus Power Solutions Limited",
+        "optionC": "Reliance Power Trading Limited",
+        "optionD": "Sembcorp Energy India Limited",
+        "answer": "Sembcorp Energy India Limited"
+    },
+    {
+        "question": "Which among the following department launched pan India 1000 SARS-CoV-2 RNA genome sequencing programme in collaboration with the national laboratories and clinical organization?",
+        "optionA": "Department of Chemicals and Petrochemicals",
+        "optionB": "Department for Science and Technology",
+        "optionC": "Department of Health and Family Welfare",
+        "optionD": "Department of Biotechnology",
+        "answer": "Department of Biotechnology"
+    },
+    {
+        "question": "India and European Union (EU) exchanged Note Verbale to renew its Agreement on Scientific and Technological Cooperation for how many years?",
+        "optionA": "4",
+        "optionB": "6",
+        "optionC": "5",
+        "optionD": "9",
+        "answer": "5"
+    }
+]

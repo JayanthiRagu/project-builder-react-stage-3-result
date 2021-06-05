@@ -1,0 +1,14 @@
+.container{
+    background-color: rgb(91, 23, 201);
+    width:100%;
+    height:100%;
+    margin:20% auto;
+}
+.buttons{
+    width:200px;
+    height:40px;
+    background-color:green;
+    border:1px solid;
+    border-radius:10px;
+    cursor:pointer;
+}
